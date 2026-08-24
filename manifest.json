@@ -1,0 +1,10 @@
+{
+  "name": "陸上指導・月謝管理",
+  "short_name": "月謝管理",
+  "start_url": "./track_fee_manager.html",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#222222",
+  "lang": "ja",
+  "description": "陸上指導の生徒と月謝の受取状況を管理するアプリ"
+}
